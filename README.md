@@ -24,4 +24,4 @@ Sou movida por curiosidade e propósito. Gosto de transformar conhecimento em pr
 
 ---
 
-Em breve: projetos com foco em Python, scripts e estudos aplicados!
+Em breve: projetos com foco em Python e Java, scripts e estudos aplicados!
