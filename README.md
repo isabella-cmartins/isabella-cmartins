@@ -1,11 +1,11 @@
 👋 Oi, eu sou a Isabella!
 
-🎓 Formada em **Análise e Desenvolvimento de Sistemas** e estudante iniciante em programação com foco em **Python**.
+🎓 Formada em **Análise e Desenvolvimento de Sistemas** e estudante iniciante em programação com foco em **Python** e **Java**.
 
-- 🐍 Estudando Python e aplicando em automações, scripts e análise de dados  
+- 🐍 Estudando Python e Java aplicando em automações, scripts e análise de dados  
 - 🔐 Curiosa e dedicada a entender o mundo da segurança da informação: do básico às boas práticas  
 - 💡 Gosto de aprender, sem medo de explorar novos desafios e tecnologias  
-- 🤝 Em busca de uma **oportunidade como desenvolvedora júnior em Python**  
+- 🤝 Em busca de uma **oportunidade como desenvolvedora júnior**  
 - 📫 Como me encontrar: isabella.cmartinsdv@gmail.com 
 
 ---
